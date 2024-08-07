@@ -5,7 +5,7 @@
 
 <sub>I am improving as a front-end developer, below there are links to several of my works</sub>
 
-$\color{#33CAFF}{\textsf{some projects}}$
+$\color{#33CAFF}{\textsf{some projects (links)}}$
 
 <a href="https://youtu.be/36Chx-Gtx_g">![Static Badge](https://img.shields.io/badge/VUE%20JS%20-36454F?style=flat&logo=youtube&logoColor=fff)
  </a>
@@ -24,6 +24,9 @@ $\color{#33CAFF}{\textsf{languages and frameworks}}$
 
 <sub> Previously, I was involved in promotion on social networks, I designed printed materials and wrote texts for social networks. My responsibilities included website administration, I was wondering “how does it work?”. I studied <a href="https://analytics.google.com/analytics/academy/certificate/tfIduFYxQOukx1qH0Eacgg">![Static Badge](https://img.shields.io/badge/Google%20Analytics-36454F?style=flat&logo=googleanalytics&logoColor=fff)
  <a/> to better understand how search engines work.</sub>
+
+$\color{#33CAFF}{\textsf{look for remote job}}$
+
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-36454F?style=flat&logo=javascript&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Vue%20JS%203-36454F?style=flat&logo=vuedotjs&logoColor=fff)
@@ -71,7 +74,7 @@ $\color{#33CAFF}{\textsf{languages and frameworks}}$
  
 ![Static Badge](https://img.shields.io/badge/Apple%202021%20iMac%20-36454F?style=flat&logo=apple%20&logoColor=fff)
 
-
+look for remote job
  $\color{#33CAFF}{\textsf{get in touch}}$
  
 <a href="https://www.linkedin.com/in/eugenia-vitincshii/"> ![Static Badge](https://img.shields.io/badge/linkedin-36454F?style=flat&logo=linkedin&logoColor=fff)
