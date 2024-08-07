@@ -17,22 +17,34 @@ $\color{#33CAFF}{\textsf{some projects}}$
 
 $\color{#33CAFF}{\textsf{languages and frameworks}}$
 
+
 HTML 5 |
 CSS3 | SCSS |
 JAVA SCRIPT |
 VUE JS (OPTION & COMPOSITION API) | VUE ROUTER |
 PINIA |
 
-<sub> Previously, I was involved in promotion on social networks, I designed printed materials and wrote texts for social networks. My responsibilities included website administration, I was wondering “how does it work?”. I studied <a href="https://analytics.google.com/analytics/academy/certificate/tfIduFYxQOukx1qH0Eacgg">Google Analytics<a/> to better understand how search engines work.</sub>
+<sub> Previously, I was involved in promotion on social networks, I designed printed materials and wrote texts for social networks. My responsibilities included website administration, I was wondering “how does it work?”. I studied <a href="https://analytics.google.com/analytics/academy/certificate/tfIduFYxQOukx1qH0Eacgg">![Static Badge](https://img.shields.io/badge/Google%20Analytics-36454F?style=flat&logo=googleanalytics&logoColor=fff)
+ <a/> to better understand how search engines work.</sub>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-36454F?style=flat&logo=javascript&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Vue%20JS%203-36454F?style=flat&logo=vuedotjs&logoColor=fff)
+
+
+![Static Badge](https://img.shields.io/badge/HTML%205-36454F?style=flat&logo=html5&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/CSS%203-36454F?style=flat&logo=css3&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/SCSS-36454F?style=flat&logo=sass&logoColor=fff)
+
+
+
+![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-36454F?style=flat&logo=adobephotoshop&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Canva-36454F?style=flat&logo=canva&logoColor=fff)
+
+
+![Static Badge](https://img.shields.io/badge/Sublime%20Text-36454F?style=flat&logo=sublimetext&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-36454F?style=flat&logo=%20&logoColor=fff)
+
+
 
 <sub>After getting acquainted with the world of IT, I began to study HTML and CSS. I made my first websites for friends, then I looked for projects on the Internet. Later I started learning Javascript and English.</sub>
 
@@ -40,18 +52,20 @@ PINIA |
 
  $\color{#33CAFF}{\textsf{machine:}}$
  
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)  
-2021 iMac 
+![Static Badge](https://img.shields.io/badge/Apple%202021%20iMac%20-36454F?style=flat&logo=apple%20&logoColor=fff)
+
 
 
  $\color{#33CAFF}{\textsf{get in touch}}$
  
-<a href="https://www.linkedin.com/in/eugenia-vitincshii/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/eugenia-vitincshii/"> ![Static Badge](https://img.shields.io/badge/linkedin-36454F?style=flat&logo=linkedin&logoColor=fff)
+</a>
  
-<a href="mailto:vitinschii.eugenia@gmail.com">send email</a> 
+<a href="mailto:vitinschii.eugenia@gmail.com">![Static Badge](https://img.shields.io/badge/gmail-36454F?style=flat&logo=gmail&logoColor=fff)
+</a> 
 
-
-<a href="https://cert.efset.org/vbstXP">english certification</a> 
+<a href="https://cert.efset.org/vbstXP">![Static Badge](https://img.shields.io/badge/english%20certification-36454F?style=flat&logo=%20&logoColor=fff)
+</a> 
  
  
 
