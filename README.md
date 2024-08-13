@@ -14,8 +14,8 @@ $\color{#33CAFF}{\textsf{some projects (links)}}$
 <a href="https://youtu.be/mfWBxESYFRU">![Static Badge](https://img.shields.io/badge/HTML%20%7C%20SCSS%20-36454F?style=flat&logo=youtube&logoColor=fff)
 </a> 
 <a href="https://youtu.be/Dx5CUAKjuQM">![Static Badge](https://img.shields.io/badge/HTML%20%7C%20SCSS%20%7C%20JS%20%20-36454F?style=flat&logo=youtube&logoColor=fff)
-</a> 
-
+</a>  
+ 
 <sub>I started my journey in IT 4 years ago, initially I became familiar with the basic concepts in different languages ​​and technologies (PHP | Laravel | Python | ... | )</sub>
 <sub></sub>
 
@@ -68,7 +68,7 @@ $\color{#33CAFF}{\textsf{look for remote job}}$
 
 <sub>After getting acquainted with the world of IT, I began to study HTML and CSS. I made my first websites for friends, then I looked for projects on the Internet. Later I started learning Javascript and English.</sub>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenia-vitinschii&layout=compact)](https://github.com/eugenia-vitinschii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenia-vitinschii&theme=react&layout=compact)](https://github.com/eugenia-vitinschii/github-readme-stats)
 
  $\color{#33CAFF}{\textsf{machine}}$
  
