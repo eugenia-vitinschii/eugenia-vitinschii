@@ -50,6 +50,7 @@ $\color{#33CAFF}{\textsf{look for remote job}}$
 ![Static Badge](https://img.shields.io/badge/HTML%205-36454F?style=flat&logo=html5&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/CSS%203-36454F?style=flat&logo=css3&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/SCSS-36454F?style=flat&logo=sass&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/SASS-36454F?style=flat&logo=sass&logoColor=fff)
 
 
 
