@@ -13,8 +13,7 @@ $\color{#33CAFF}{\textsf{some projects (links)}}$
  </a> 
 <a href="https://youtu.be/mfWBxESYFRU">![Static Badge](https://img.shields.io/badge/HTML%20%7C%20SCSS%20-36454F?style=flat&logo=youtube&logoColor=fff)
 </a> 
-<a href="https://youtu.be/Dx5CUAKjuQM">![Static Badge](https://img.shields.io/badge/HTML%20%7C%20SCSS%20%7C%20JS%20%20-36454F?style=flat&logo=youtube&logoColor=fff)
-</a>  
+
  
 <sub>I started my journey in IT 4 years ago, initially I became familiar with the basic concepts in different languages ​​and technologies (PHP | Laravel | Python | ... | )</sub>
 <sub></sub>
