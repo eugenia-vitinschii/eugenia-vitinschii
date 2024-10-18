@@ -7,6 +7,8 @@
 
 $\color{#33CAFF}{\textsf{some projects (links)}}$
 
+<a href="https://youtu.be/UEiQlzM4z2M">![Static Badge](https://img.shields.io/badge/-news-website?logo=YouTube&color=36454F)
+</a>
 <a href="https://youtu.be/36Chx-Gtx_g">![Static Badge](https://img.shields.io/badge/VUE%20JS%20-36454F?style=flat&logo=youtube&logoColor=fff)
  </a>
 <a href="https://youtu.be/puJf7eX54kQ">![Static Badge](https://img.shields.io/badge/VUE%20JS%20%26%20PINIA%20-36454F?style=flat&logo=youtube&logoColor=fff)
