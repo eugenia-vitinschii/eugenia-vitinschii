@@ -7,6 +7,11 @@
 
 $\color{#33CAFF}{\textsf{some projects (links)}}$
 
+### playlist:
+
+https://www.youtube.com/playlist?list=PLDsIh8-lCQhseVa8Euh8sx9qQA351RsoL
+
+### or:
 <a href="https://youtu.be/UEiQlzM4z2M">![Static Badge](https://img.shields.io/badge/-news-website?logo=YouTube&color=36454F)
 </a>
 <a href="https://youtu.be/36Chx-Gtx_g">![Static Badge](https://img.shields.io/badge/VUE%20JS%20-36454F?style=flat&logo=youtube&logoColor=fff)
