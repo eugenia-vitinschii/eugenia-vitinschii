@@ -19,7 +19,7 @@
 
 <sub> Previously, I was involved in promotion on social networks, I designed printed materials and wrote texts for social networks. My responsibilities included website administration, I was wondering “how does it work?”.
 
-$\color{#33CAFF}{\textsf{TECHNICAL SKILLS}}$
+## 🛠️ TECHNICAL SKILLS
 
 ![Static Badge](https://img.shields.io/badge/HTML%205-36454F?style=flat&logo=html5&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/CSS%203-36454F?style=flat&logo=css3&logoColor=fff)
@@ -49,7 +49,7 @@ $\color{#33CAFF}{\textsf{TECHNICAL SKILLS}}$
 ![Static Badge](https://img.shields.io/badge/Block%20Element%20Modifier%20%20-36454F?style=flat&logoColor=fff)
 
 
-$\color{#33CAFF}{\textsf{I'm interested in}}$
+## 🛠️ I'm interested in
 
 ![Static Badge](https://img.shields.io/badge/Node%20JS%20-36454F?style=flat&logo=nodedotjs&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Express%20JS%20-36454F?style=flat&logo=express&logoColor=fff)
@@ -65,7 +65,7 @@ $\color{#33CAFF}{\textsf{I'm interested in}}$
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenia-vitinschii&theme=react&layout=compact)](https://github.com/eugenia-vitinschii/github-readme-stats)
 
- $\color{#33CAFF}{\textsf{machine}}$
+## 📬 Contact & Gear
  
 ![Static Badge](https://img.shields.io/badge/Apple%202021%20iMac%20-36454F?style=flat&logo=apple%20&logoColor=fff)
 
