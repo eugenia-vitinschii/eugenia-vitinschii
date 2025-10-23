@@ -1,81 +1,51 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+%7C+Vue+3+%7C+TypeScript+%7C+Pinia)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer+Vue+js+|+Pinia)](https://git.io/typing-svg)
+<sub> I'm a Fronted Developer focused on building clean, responsive, and maintaibable web apps using Vue 3 and TypeScript, Pinia.</sub>
 
-<sub>I am improving as a front-end developer, below there are links to several of my works</sub>
-
-<a href="https://youtu.be/UEiQlzM4z2M">![Static Badge](https://img.shields.io/badge/-news-website?logo=YouTube&color=36454F)
-</a>
-<a href="https://youtu.be/36Chx-Gtx_g">![Static Badge](https://img.shields.io/badge/VUE%20JS%20-36454F?style=flat&logo=youtube&logoColor=fff)
- </a>
-<a href="https://youtu.be/puJf7eX54kQ">![Static Badge](https://img.shields.io/badge/VUE%20JS%20%26%20PINIA%20-36454F?style=flat&logo=youtube&logoColor=fff)
- </a> 
-<a href="https://youtu.be/mfWBxESYFRU">![Static Badge](https://img.shields.io/badge/HTML%20%7C%20SCSS%20-36454F?style=flat&logo=youtube&logoColor=fff)
-</a> 
-
- 
-<sub>I started my journey in IT 4 years ago, initially I became familiar with the basic concepts in different languages ​​and technologies</sub>
-
-<sub> Previously, I was involved in promotion on social networks, I designed printed materials and wrote texts for social networks. My responsibilities included website administration, I was wondering “how does it work?”.
-
-## 🛠️ TECHNICAL SKILLS
-
-![Static Badge](https://img.shields.io/badge/HTML%205-36454F?style=flat&logo=html5&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/CSS%203-36454F?style=flat&logo=css3&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/SCSS-36454F?style=flat&logo=sass&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/SASS-36454F?style=flat&logo=sass&logoColor=fff)
+---
 
 
-![Static Badge](https://img.shields.io/badge/JavaScript-36454F?style=flat&logo=javascript&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Vue%20JS%203-36454F?style=flat&logo=vuedotjs&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/OPTION%20%26%20COMPOSITION%20API-36454F?style=flat&logo=vuedotjs&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/PINIA-36454F?style=flat&logo=vuedotjs&logoColor=fff)
+### 🏗 Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-36454F?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-36454F?style=flat&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-36454F?style=flat&logo=sass)
+![JavaScript](https://img.shields.io/badge/JavaScript-36454F?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-36454F?style=flat&logo=typescript)
+![Vue 3](https://img.shields.io/badge/Vue%203-36454F?style=flat&logo=vuedotjs)
+![Pinia](https://img.shields.io/badge/Pinia-36454F?style=flat&logo=vuedotjs)
+![Vite](https://img.shields.io/badge/Vite-36454F?style=flat&logo=vite)
+![Axios](https://img.shields.io/badge/Axios-36454F?style=flat&logo=axios)
+![JSON](https://img.shields.io/badge/JSON-36454F?style=flat&logo=json)
 
-![Static Badge](https://img.shields.io/badge/JSON-36454F?style=flat&logo=json&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/axios-36454F?style=flat&logo=axios&logoColor=fff)
+---
 
-![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-36454F?style=flat&logo=adobephotoshop&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Canva-36454F?style=flat&logo=canva&logoColor=fff)
+### 🧠 Currently exploring
+![Node.js](https://img.shields.io/badge/Node.js-36454F?style=flat&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-36454F?style=flat&logo=express)
+![Postman](https://img.shields.io/badge/Postman-36454F?style=flat&logo=postman)
 
+---
 
-![Static Badge](https://img.shields.io/badge/Sublime%20Text-36454F?style=flat&logo=sublimetext&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-36454F?style=flat&logo=%20&logoColor=fff)
+### 👾 About me
+<sub>I transitioned into IT 4 years ago and fell love with creating things that live on the web
+I enjoy working with component based architecture, reusable UI elements, and clean code structure.
+</sub>
 
+---
 
+### 🎣 Open to new opportunities
+<sub>I'm looking for a  full remote **Frontend Developer** position (Vue 3 / TypeScript).  
+If your team values clean architecture, meaningful UI, and steady growth - I’d love to connect.</sub>
 
-![Static Badge](https://img.shields.io/badge/MVC%20-36454F?style=flat&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Block%20Element%20Modifier%20%20-36454F?style=flat&logoColor=fff)
+---
 
-
-## 🛠️ I'm interested in
-
-![Static Badge](https://img.shields.io/badge/Node%20JS%20-36454F?style=flat&logo=nodedotjs&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Express%20JS%20-36454F?style=flat&logo=express&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/nodemon%20-36454F?style=flat&logo=nodemon&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Mongodb%20-36454F?style=flat&logo=mongodb&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Postman-36454F?style=flat&logo=postman&logoColor=fff)
-
-
-
-
-
-<sub>After getting acquainted with the world of IT, I began to study HTML and CSS. I made my first websites for friends, then I looked for projects on the Internet. Later I started learning Javascript and English.</sub>
+### 🖇 Contact & Gear
+![iMac](https://img.shields.io/badge/Apple%20iMac%202021-36454F?style=flat&logo=apple)
+<a href="https://www.linkedin.com/in/eugenia-vitincshii/">![LinkedIn](https://img.shields.io/badge/LinkedIn-36454F?style=flat&logo=linkedin)</a>
+<a href="mailto:vitinschii.eugenia@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-36454F?style=flat&logo=gmail)</a>
+<a href="https://cert.efset.org/en/FZQmQJ">![English Certificate](https://img.shields.io/badge/English%20Certification-36454F?style=flat)</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenia-vitinschii&theme=react&layout=compact)](https://github.com/eugenia-vitinschii/github-readme-stats)
-
-## 📬 Contact & Gear
- 
-![Static Badge](https://img.shields.io/badge/Apple%202021%20iMac%20-36454F?style=flat&logo=apple%20&logoColor=fff)
-
-<a href="https://www.linkedin.com/in/eugenia-vitincshii/"> ![Static Badge](https://img.shields.io/badge/linkedin-36454F?style=flat&logo=linkedin&logoColor=fff)
-</a>
-<a href="mailto:vitinschii.eugenia@gmail.com">![Static Badge](https://img.shields.io/badge/gmail-36454F?style=flat&logo=gmail&logoColor=fff)
-</a> 
-<a href="https://cert.efset.org/vbstXP">![Static Badge](https://img.shields.io/badge/english%20certification-36454F?style=flat&logo=%20&logoColor=fff)
-</a> 
- 
- 
-
- 
