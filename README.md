@@ -8,7 +8,6 @@ I build scalable web applications and maintanable frontend solutions.
 My experience includes building a custom Vue 3 component library published on NPM, API integration, state management, and real-world features like authentication, admin panels, and dynamic UI.
 I value clean architecture, reusable components, and structured code.
 
-[![NPM Downloads](https://img.shields.io/npm/dm/modular-ui-kit-vue?color=35495e)](https://www.npmjs.com/package/modular-ui-kit-vue)
 ### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-36454F?style=flat&logo=html5)
@@ -29,6 +28,7 @@ I value clean architecture, reusable components, and structured code.
 **Modular UI Kit**  
 Custom, lightweight UI component library built for Vue 3 with design tokens, CSS variables, and SASS mixins for responsive layouts.  
 → Vue 3, TypeScript, SCSS, Vite, NPM
+[![NPM Downloads](https://img.shields.io/npm/dm/modular-ui-kit-vue?color=35495e)](https://www.npmjs.com/package/modular-ui-kit-vue)
 
 **Knowledge Base Platform**  
 Full-stack app with role-based access (admin, author, viewer), API filtering and Markdown support  
