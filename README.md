@@ -28,6 +28,7 @@ I value clean architecture, reusable components, and structured code.
 **Modular UI Kit**  
 Custom, lightweight UI component library built for Vue 3 with design tokens, CSS variables, and SASS mixins for responsive layouts.  
 → Vue 3, TypeScript, SCSS, Vite, NPM
+
 [![NPM Downloads](https://img.shields.io/npm/dm/modular-ui-kit-vue?color=35495e)](https://www.npmjs.com/package/modular-ui-kit-vue)
 
 **Knowledge Base Platform**  
