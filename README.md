@@ -49,6 +49,13 @@ A lightweight, modular React component library powered by SASS and unified desig
 [![NPM Downloads](https://img.shields.io/npm/dm/modular-ui-kit-react?color=35495e)](https://www.npmjs.com/package/modular-ui-kit-react)
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/eugenia-vitinschii/e3f532a4d6ca634ade757fa0cea0aea9/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 
+**Modular UI Kit Styles**
+
+A shared styles package for two npm libraries: **modular-ui-kit-vue** and **modular-ui-kit-react**.
+
+[![NPM Version](https://img.shields.io/npm/v/modular-ui-kit-styles?color=42b883)](https://www.npmjs.com/package/modular-ui-kit-styles)
+[![NPM Downloads](https://img.shields.io/npm/dm/modular-ui-kit-styles?color=35495e)](https://www.npmjs.com/package/modular-ui-kit-styles)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/eugenia-vitinschii/9c1adedb1baae76cd55970fd012afba7/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 
 
 ###  Contact & Gear
